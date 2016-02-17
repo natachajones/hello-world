@@ -1,2 +1,2 @@
 # hello-world
-Cute repository
+I like small dogs and succulents
